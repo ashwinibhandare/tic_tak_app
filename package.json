@@ -38,6 +38,9 @@
       "last 1 safari version"
     ]
   },
+  "resolutions": {
+    "mini-css-extract-plugin": "2.4.5"
+  },
   "devDependencies": {
     "gh-pages": "^3.2.3"
   }
